@@ -1,0 +1,1 @@
+sequelize-automate -t js -h localhost -d ej_pa -u postgres -p 1234 -P 5433 -e postgres -o ./models
